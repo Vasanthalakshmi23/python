@@ -1,0 +1,10 @@
+x = input("Enter a string: ")
+y = ""
+
+for i in x:
+    y = i + y
+
+if x == y:
+    print("Palindrome")
+else:
+    print("Not a palindrome")
