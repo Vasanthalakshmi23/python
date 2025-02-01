@@ -1,0 +1,9 @@
+def operators(a, b):
+    sum = a + b
+    sub = a - b
+    mult = a * b
+    return sum, sub, mult
+
+# Calling the function and printing the result
+x, y, z = operators(20, 10)
+print(x, y, z)
