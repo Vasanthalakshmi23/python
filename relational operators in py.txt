@@ -1,0 +1,9 @@
+a=int(input("enter the a vaalue:"))
+b=int(input("enter the b vaalue:"))
+print("a==b:",a==b)
+print("a!=b:",a!=b)
+print("a>b:",a>b)
+print("a>=b:",a>=b)
+print("a<b:",a<b)
+print("a<=b:",a<=b)
+
