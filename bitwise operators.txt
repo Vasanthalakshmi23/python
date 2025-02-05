@@ -1,0 +1,13 @@
+a=int(input("enter the a vaalue:"))
+b=int(input("enter the b vaalue:"))
+c=a&b
+print("a&b:",c)
+c=a/b
+print("a/b:",c)
+c=a^b
+print("a^b:",c)
+c=a<<2
+print("a<<2:",c)
+c=a>>2
+print("a>>2:",c)
+
