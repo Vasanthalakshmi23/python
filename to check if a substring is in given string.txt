@@ -1,0 +1,6 @@
+text=input("enter a string:")
+sub=input("enter a substring")
+if sub in text:
+    print(sub,"is available")
+else:
+    print(sub,"is not avaiilable")
