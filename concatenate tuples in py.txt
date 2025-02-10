@@ -1,0 +1,4 @@
+s1=("vasantha",45,"h-no-19/147c","nandyal","RGMCET")
+s2=("keerthi",24,"h.no-142","kurnool","ravindra")
+s3=s1+s2
+print(s3)
